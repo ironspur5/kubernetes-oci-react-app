@@ -81,7 +81,7 @@ $ kubectl expose deployment SERVICE NAME --type="LoadBalancer"
 - You can view what the final web app looks like here: http://150.136.132.121:3000/
 
 ## Closing Remarks
-- Tutorial was built following steps from this Medium article: https://medium.com/faun/how-to-deploy-a-express-node-js-app-on-kubernetes-and-an-intro-to-containerisation-205b5c647426\
+- Tutorial was built following steps from this Medium article: https://medium.com/faun/how-to-deploy-a-express-node-js-app-on-kubernetes-and-an-intro-to-containerisation-205b5c647426
 
 
 
